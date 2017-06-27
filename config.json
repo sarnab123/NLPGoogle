@@ -1,0 +1,6 @@
+{
+  "GCLOUD_PROJECT": "machineKohls",
+  "DATA_BACKEND": "mongodb",
+  "MONGO_URL": "mongodb://bala:krishnan@ds021895.mlab.com:21895/tagurls",
+  "MONGO_COLLECTION": "tags"
+}
